@@ -1,0 +1,3 @@
+C:/Users/asus/CLionProjects/IT-2004Game/cmake-build-debug/CMakeFiles/IT_2004Game.dir
+C:/Users/asus/CLionProjects/IT-2004Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asus/CLionProjects/IT-2004Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
